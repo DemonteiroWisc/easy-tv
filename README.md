@@ -1,4 +1,4 @@
-# easy-tv
+# Easy-TV
 CS400 xTeam Project
 
 Title: Easy TV
